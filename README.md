@@ -1,4 +1,4 @@
-#login credebtial 
+## login credential
 
 email:rajsubashan@gmail.com
 password: Furious@95
